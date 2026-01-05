@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sabyasachi-phd.github.io/sitemap.xml
+Sitemap: https://sabyasachi-phd.github.io//sitemap.xml
